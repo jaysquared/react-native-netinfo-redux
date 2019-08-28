@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Listen to network state changes and dispatch redux actions",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/mtumiati/react-native-netinfo-redux",
   "author": "Manuel Tumiati <tumiatimanuel@gmail.com>",
   "license": "MIT",
   "scripts": {
