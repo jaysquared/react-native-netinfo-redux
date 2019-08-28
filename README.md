@@ -53,4 +53,4 @@ export default function* rootSaga() {
 ```
 
 ## Credits
-(https://github.com/bamlab/redux-enhancer-react-native-appstate)[https://github.com/bamlab/redux-enhancer-react-native-appstate]
+[https://github.com/bamlab/redux-enhancer-react-native-appstate](https://github.com/bamlab/redux-enhancer-react-native-appstate)
